@@ -1,0 +1,5 @@
+plotworlds:
+  plotworld:
+    walkway_material: REDSTONE_BLOCK
+    walkway_width: 3
+    walkway_height: 12

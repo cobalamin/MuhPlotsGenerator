@@ -1,0 +1,9 @@
+---
+name: MuhPlotsGenerator
+main: de.chipf0rk.MuhPlotsGenerator.MuhPlotsGenerator
+version: 0.0.1-SNAPSHOT
+description: A custom world generator that generates infinite plots.Yay!
+load: STARTUP
+depend:
+  - WorldGuard
+  - WorldEdit
